@@ -1,0 +1,106 @@
+Scenario,CommoditySetDesc\Period,2012,2015,2020,2025,2030,2035,2040,2045,2050
+NDC2_BAU,Agriculture Emissions,6,6,5,5,6,5,5,5,5
+NDC2_BAU,Commercial Emissions,8,8,8,7,8,8,8,7,7
+NDC2_BAU,ELC and Heat Emissions,105,70,76,86,93,95,96,96,105
+NDC2_BAU,Industrial Emissions,101,73,78,91,112,125,145,164,188
+NDC2_BAU,Residential Emissions,36,35,34,33,31,30,29,29,28
+NDC2_BAU,Supply Sector Emissions,73,37,53,64,70,71,73,78,89
+NDC2_BAU,Transport Emissions,21,18,21,24,27,29,31,33,36
+NDC2_CNE,Agriculture Emissions,6,6,5,5,4,3,3,2,0
+NDC2_CNE,Commercial Emissions,8,8,8,6,3,3,2,2,1
+NDC2_CNE,ELC and Heat Emissions,105,70,46,43,29,22,16,0,0
+NDC2_CNE,Industrial Emissions,101,73,75,82,94,94,87,75,40
+NDC2_CNE,Residential Emissions,36,35,29,24,22,20,19,14,0
+NDC2_CNE,Supply Sector Emissions,73,37,38,38,42,39,33,26,18
+NDC2_CNE,Transport Emissions,21,18,21,20,17,13,9,5,0
+NDC2_Opt_BAU,Agriculture Emissions,6,6,5,6,6,6,6,5,6
+NDC2_Opt_BAU,Commercial Emissions,8,8,8,7,8,8,8,9,9
+NDC2_Opt_BAU,ELC and Heat Emissions,105,70,76,94,107,104,125,133,134
+NDC2_Opt_BAU,Industrial Emissions,101,73,80,114,136,159,183,209,239
+NDC2_Opt_BAU,Residential Emissions,36,35,34,34,32,31,31,31,31
+NDC2_Opt_BAU,Supply Sector Emissions,73,37,53,73,80,83,95,101,108
+NDC2_Opt_BAU,Transport Emissions,21,18,21,27,30,34,38,43,48
+NDC2_Opt_CNE,Agriculture Emissions,6,6,5,5,4,4,4,2,0
+NDC2_Opt_CNE,Commercial Emissions,8,8,8,5,3,3,3,2,1
+NDC2_Opt_CNE,ELC and Heat Emissions,105,70,52,44,31,25,14,2,0
+NDC2_Opt_CNE,Industrial Emissions,101,73,78,104,111,112,105,94,49
+NDC2_Opt_CNE,Residential Emissions,36,35,31,28,22,20,19,14,0
+NDC2_Opt_CNE,Supply Sector Emissions,73,37,44,47,47,47,43,32,27
+NDC2_Opt_CNE,Transport Emissions,21,18,21,25,24,14,14,4,0
+NDC2_Opt_REF,Agriculture Emissions,6,6,5,5,5,4,5,5,5
+NDC2_Opt_REF,Commercial Emissions,8,8,8,5,4,3,3,3,3
+NDC2_Opt_REF,ELC and Heat Emissions,105,70,53,51,35,28,34,27,20
+NDC2_Opt_REF,Industrial Emissions,101,73,78,102,110,119,134,148,153
+NDC2_Opt_REF,Residential Emissions,36,35,31,27,21,20,20,14,9
+NDC2_Opt_REF,Supply Sector Emissions,73,37,45,47,46,47,55,56,56
+NDC2_Opt_REF,Transport Emissions,21,18,21,22,20,14,13,12,15
+NDC2_REF,Agriculture Emissions,6,6,4,5,4,4,5,4,4
+NDC2_REF,Commercial Emissions,8,8,8,6,3,3,2,2,2
+NDC2_REF,ELC and Heat Emissions,105,70,50,47,32,27,31,30,26
+NDC2_REF,Industrial Emissions,101,73,75,81,95,100,112,120,133
+NDC2_REF,Residential Emissions,36,35,28,24,20,20,19,17,13
+NDC2_REF,Supply Sector Emissions,73,37,39,38,40,41,47,48,58
+NDC2_REF,Transport Emissions,21,18,21,18,16,13,10,10,12
+NDC2_S2C,Agriculture Emissions,6,6,5,5,4,3,3,3,0
+NDC2_S2C,Commercial Emissions,8,8,8,6,3,3,2,2,1
+NDC2_S2C,ELC and Heat Emissions,105,70,48,44,29,22,8,4,4
+NDC2_S2C,Industrial Emissions,101,73,75,82,92,89,84,83,76
+NDC2_S2C,Residential Emissions,36,35,28,24,21,20,18,15,9
+NDC2_S2C,Supply Sector Emissions,73,37,39,38,41,36,33,32,31
+NDC2_S2C,Transport Emissions,21,18,21,20,17,13,13,12,14
+NDC2_S2D,Agriculture Emissions,6,6,5,5,4,3,3,2,0
+NDC2_S2D,Commercial Emissions,8,8,8,6,3,3,2,2,1
+NDC2_S2D,ELC and Heat Emissions,105,70,46,43,28,22,13,2,0
+NDC2_S2D,Industrial Emissions,101,73,75,82,94,95,86,81,66
+NDC2_S2D,Residential Emissions,36,35,28,24,22,20,18,15,8
+NDC2_S2D,Supply Sector Emissions,73,37,38,38,42,39,33,29,26
+NDC2_S2D,Transport Emissions,21,18,21,20,17,13,13,12,13
+NDC2_S2F,Agriculture Emissions,6,6,5,5,4,3,3,3,1
+NDC2_S2F,Commercial Emissions,8,8,8,6,3,3,2,2,2
+NDC2_S2F,ELC and Heat Emissions,105,70,48,44,29,25,24,22,17
+NDC2_S2F,Industrial Emissions,101,73,75,81,96,103,114,123,138
+NDC2_S2F,Residential Emissions,36,35,29,24,22,20,19,17,13
+NDC2_S2F,Supply Sector Emissions,73,37,39,38,41,43,50,54,61
+NDC2_S2F,Transport Emissions,21,18,21,20,16,13,13,12,15
+NDC2_S2G,Agriculture Emissions,6,6,5,5,4,3,3,3,1
+NDC2_S2G,Commercial Emissions,8,8,8,6,3,3,2,2,2
+NDC2_S2G,ELC and Heat Emissions,105,70,48,44,27,23,21,19,14
+NDC2_S2G,Industrial Emissions,101,73,75,82,97,103,115,126,139
+NDC2_S2G,Residential Emissions,36,35,29,24,21,20,19,17,13
+NDC2_S2G,Supply Sector Emissions,73,37,39,38,42,44,49,55,60
+NDC2_S2G,Transport Emissions,21,18,21,20,16,13,13,13,15
+NDC2_S2S,Agriculture Emissions,6,6,5,5,4,3,3,3,1
+NDC2_S2S,Commercial Emissions,8,8,8,6,3,3,2,2,2
+NDC2_S2S,ELC and Heat Emissions,105,70,48,44,28,24,23,21,16
+NDC2_S2S,Industrial Emissions,101,73,75,82,96,102,114,124,139
+NDC2_S2S,Residential Emissions,36,35,29,24,21,20,19,17,13
+NDC2_S2S,Supply Sector Emissions,73,37,39,38,41,43,49,54,60
+NDC2_S2S,Transport Emissions,21,18,21,20,16,13,13,12,14
+NDC2_S3E,Agriculture Emissions,6,6,5,5,4,3,3,2,0
+NDC2_S3E,Commercial Emissions,8,8,8,6,3,3,2,2,1
+NDC2_S3E,ELC and Heat Emissions,105,70,46,43,30,22,16,2,0
+NDC2_S3E,Industrial Emissions,101,73,75,82,94,93,87,74,40
+NDC2_S3E,Residential Emissions,36,35,29,24,22,20,19,15,0
+NDC2_S3E,Supply Sector Emissions,73,37,38,38,42,39,34,26,18
+NDC2_S3E,Transport Emissions,21,18,21,20,17,13,9,5,0
+NDC2_S3F,Agriculture Emissions,6,6,5,5,4,3,3,2,0
+NDC2_S3F,Commercial Emissions,8,8,8,6,3,3,2,2,1
+NDC2_S3F,ELC and Heat Emissions,105,70,46,43,29,22,16,1,0
+NDC2_S3F,Industrial Emissions,101,73,75,81,95,93,86,75,40
+NDC2_S3F,Residential Emissions,36,35,28,24,22,20,19,15,0
+NDC2_S3F,Supply Sector Emissions,73,37,38,38,42,39,33,26,18
+NDC2_S3F,Transport Emissions,21,18,21,20,17,13,9,5,0
+NDC2_S3G,Agriculture Emissions,6,6,5,5,4,3,3,2,0
+NDC2_S3G,Commercial Emissions,8,8,8,6,3,3,2,2,1
+NDC2_S3G,ELC and Heat Emissions,105,70,46,43,29,22,17,1,0
+NDC2_S3G,Industrial Emissions,101,73,75,82,96,93,86,75,40
+NDC2_S3G,Residential Emissions,36,35,28,24,22,20,19,14,0
+NDC2_S3G,Supply Sector Emissions,73,37,38,38,43,39,34,26,18
+NDC2_S3G,Transport Emissions,21,18,21,20,16,13,9,5,0
+UGD_NewPolicy,Agriculture Emissions,6,6,5,5,4,3,3,3,0
+UGD_NewPolicy,Commercial Emissions,8,8,8,6,3,3,2,2,1
+UGD_NewPolicy,ELC and Heat Emissions,105,70,46,42,40,34,21,4,0
+UGD_NewPolicy,Industrial Emissions,101,73,76,82,86,84,78,77,67
+UGD_NewPolicy,Residential Emissions,36,35,28,24,21,19,18,15,7
+UGD_NewPolicy,Supply Sector Emissions,73,37,38,38,40,38,35,29,26
+UGD_NewPolicy,Transport Emissions,21,18,21,20,17,13,13,12,12

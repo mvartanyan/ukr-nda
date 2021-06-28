@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contribution of sectors in various scenarios</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js"></script>
+    <script src="data/common.js"></script>
+
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h1>Contribution of sectors in various scenarios</h1>
+        </div>
+    </div>
+    <div class="row p-4">
+        <div class="col-6">
+            <h2>Scenario</h2>
+            <div class="form-check"  id="scenario_choice">
+                   <script>
+                        scenario_radio(document.getElementById('scenario_choice'),'NDC2_BAU')
+                   </script>
+            </div>
+        </div>
+        <div class="col-6">
+            <h2>Format</h2>
+            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="asData" id="values" onclick="select_mode(this.id);">
+                        <label class="form-check-label" for="values">
+                            Show values
+                        </label>
+            </div>
+            <div class="form-check">
+                 <input class="form-check-input" type="radio" name="asData" id="percent" onclick="select_mode(this.id);"
+                         checked>
+                 <label class="form-check-label" for="percent">
+                      Show %
+                 </label>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <canvas id="composition"></canvas>
+            <script src="lines.js">
+            </script>
+        </div>
+    </div>
+</div>
+</body>
+</html>
