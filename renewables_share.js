@@ -33,7 +33,7 @@ function bar_chart(canvas, data)
         data: {
             labels: data['labels'],
             datasets: [{data:data['data'],
-                        label: 'Per cent renewables',
+                        label: ['Per cent renewables'],
                         backgroundColor: [
                                       'rgba(255, 99, 132, 0.2)',
                                     ],

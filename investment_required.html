@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Ukrainian NDC in charts</title>
+    <title>Investment required</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
@@ -16,21 +16,17 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1>Ukrainian NDC in charts</h1>
-        </div>
-    </div>
-    <div class="row p-4">
-        <div class="col-4">
-          <a href="emission-trends.html">Contribution of sectors in various scenarios</a>
-        </div>
-        <div class="col-4">
-          <a href="renewables-share.html">Share of renewables by year</a>
-        </div>
-        <div class="col-4">
-          <a href="investment_required.html">Investment required</a>
+            <h1>Investment required</h1>
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-12">
+            <canvas id="composition"></canvas>
+            <script src="investment_required.js">
+            </script>
+        </div>
+    </div>
 </div>
 </body>
 </html>
